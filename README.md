@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Anshumaan Singh: software engineer and founder-minded builder, building BillBrake and PasteProof" width="100%">
+  <img src="assets/banner.svg" alt="Anshumaan Singh: software engineer and founder-minded builder, building Tumblrr AI, BillBrake and PasteProof" width="100%">
 </p>
 
 <p align="center">
+  <a href="https://www.tumblrr.tech/"><img alt="Website: tumblrr.tech" src="https://img.shields.io/badge/website-tumblrr.tech-e6edf3?style=flat-square"></a>
   <a href="https://anshumaansinghh.github.io/billbrake/"><img alt="BillBrake: live" src="https://img.shields.io/badge/BillBrake-live-4fd1a5?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/anshumaan-singh-52090a259/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square"></a>
   <img alt="Open to co-founding and collaboration" src="https://img.shields.io/badge/open%20to-co--founding%20%26%20collabs-30363d?style=flat-square">
@@ -10,15 +11,15 @@
 
 ## Hi, I'm Anshumaan 👋
 
-I build tools for problems developers only notice when it is too late: the surprise cloud bill, the README example that stopped working, the deadline nobody tracked.
+I build tools for problems teams only notice when it is too late: the AI agent that fails in front of a customer, the surprise cloud bill, the README example that stopped working.
 
 I care about the boring details. Every claim gets a source, every tool gets tests before launch, and I would rather ship one small thing that works than a big thing that almost does.
 
 ```ts
 const anshumaan = {
   role: "Software engineer · founder-minded builder",
-  building: ["BillBrake", "PasteProof"],
-  focus: ["developer tools", "AI products", "SaaS"],
+  building: ["Tumblrr AI", "BillBrake", "PasteProof"],
+  focus: ["AI agent reliability", "developer tools", "SaaS"],
   stack: ["TypeScript", "JavaScript", "Node.js", "Python", "C++", "Java", "SQL"],
   principles: ["ship small, ship often", "every claim has a source", "tests before launch"],
   openTo: ["co-founding", "early-stage teams", "open-source collaboration"],
@@ -29,6 +30,7 @@ const anshumaan = {
 
 | Project | What it does |
 |---|---|
+| **[Tumblrr AI](https://www.tumblrr.tech/)** | Breaks production AI agents on purpose, before your customers do. Domain-specific adversarial cases, consistency runs and severity-ranked findings reports. |
 | **[BillBrake](https://github.com/AnshumaanSinghh/billbrake)** · [live site](https://anshumaansinghh.github.io/billbrake/) | A free, open-source guide to which of 32 developer services (AWS, Google Cloud, Vercel, OpenAI, Firebase and more) can surprise you with a bill, and how to put a hard spending cap on each. Every claim links to official documentation, and a monthly check flags anything that needs re-verifying. |
 | **PasteProof** · coming soon | Finds every code example in a README, runs it in seven languages, and points to the exact line that broke. One command, zero dependencies. |
 
@@ -65,9 +67,10 @@ const anshumaan = {
 
 ## 📡 Right now
 
-- 🔭 Building BillBrake and PasteProof in public
-- 💬 Ask me about cloud billing traps, developer tools, Node.js, Python or DSA
+- 🔭 Building Tumblrr AI, and BillBrake and PasteProof in public
+- 💬 Ask me about testing AI agents, cloud billing traps, developer tools, Node.js or Python
 - 🤝 Looking for co-founders, collaborators and early users for developer tools
+- 🌐 Website: [tumblrr.tech](https://www.tumblrr.tech/)
 - 📫 The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/anshumaan-singh-52090a259/)
 
 ---
